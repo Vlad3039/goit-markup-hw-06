@@ -937,6 +937,7 @@ color: #404BBF
 }
 
 .modal-comment:focus {
+  color: var(--title-color);
   border-color: var(--first-main-color);
 }
 
